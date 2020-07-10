@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Amir Arafat and I am a UI System Architect at ArbiterSports. My main experience is using JavaScript, but I ❤️ all front-end technologies. I ❤️ the OSS and the OSS community.
+My name is Amir Arafat and I am a UI System Architect at ArbiterSports. My main experience is using JavaScript, but I ❤️ all front-end technologies. I ❤️ the OSS and the OSS community. 
 
 ### My main experience is:
 - Node/Express/AWS Serverless Lambda. 😎
@@ -10,6 +10,7 @@ My name is Amir Arafat and I am a UI System Architect at ArbiterSports. My main 
 - CSS/Sass/LESS. 💫
 - HTML/HTML5. 🅷
 - ReactNative/Expo. 📱
+
 
 
 <!--
