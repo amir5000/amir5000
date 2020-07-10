@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Amir Arafat and I am a UI System Architect at ArbiterSports. My main programming language has been JavaScript, but I do ❤️ &nbsp;all front-end technologies. I ❤️ &nbsp; OSS and the OSS community. 
+My name is Amir Arafat and I am a UI System Architect at ArbiterSports. My main programming language has been JavaScript, but I ❤️ &nbsp;all front-end technologies. I ❤️ &nbsp; OSS and the OSS community. 
 
 #### My main experience is:
 - Node/Express/AWS Serverless Lambda. 😎
