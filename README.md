@@ -6,7 +6,7 @@ My name is Amir Arafat and I am a UI System Architect at ArbiterSports. My main 
 - Node/Express/AWS Serverless Lambda. 😎
 - ReactJs. ⚛
 - Redux. 🤖
-- AntDesign/Bootstrap. 🐜  🅱
+- AntDesign/Bootstrap. 🐜 &nbsp; 🅱
 - CSS/Sass/LESS. 💫
 - HTML/HTML5. 🅷
 - ReactNative/Expo. 📱
