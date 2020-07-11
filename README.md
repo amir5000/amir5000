@@ -15,6 +15,7 @@ My name is Amir Arafat and I am a UI System Architect at ArbiterSports. My main 
 #### Currently learning:
 - GraphQL/Appolo
 - GatsbyJS/NextJs
+- React-Query
 - Relay
 - Recoil
 
