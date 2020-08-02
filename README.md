@@ -3,15 +3,16 @@
 My name is Amir Arafat and I am a UI System Architect at ArbiterSports. I have more than 12 years of experience as a Front-end developer. My main programming language has been JavaScript, but I ❤️ &nbsp;all front-end technologies. I am trying to contribut to open source as much as I can in my free time. I ❤️ &nbsp; OSS and the OSS community. 
 
 #### My main experience is:
+- 💫 CSS/Sass/LESS. 
+- 🅷 HTML/HTML5.
 - 😎 Node/Express/AWS Serverless with Lambda.
 - ⚛ ReactJs. 
+- 📱 ReactNative/Expo.
 - 🤖 Redux. 
 - 😈 TypeScript.
 - 🐜 AntDesign.
 - 🅱 Bootstrap.
-- 💫 CSS/Sass/LESS. 
-- 🅷 HTML/HTML5. 
-- 📱 ReactNative/Expo.
+
 
 #### Currently learning:
 - GraphQL/Appolo.
