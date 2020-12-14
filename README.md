@@ -8,7 +8,8 @@ My name is Amir Arafat and I am a UI System Architect at ArbiterSports. I have m
 - 😎 Node/Express/AWS Serverless with Lambda.
 - ⚛ ReactJs. 
 - 📱 ReactNative/Expo.
-- 🤖 Redux. 
+- 🤖 Redux.
+- 🧮 React-Query.
 - 😈 TypeScript.
 - 🐜 AntDesign.
 - 🅱 Bootstrap.
@@ -16,9 +17,8 @@ My name is Amir Arafat and I am a UI System Architect at ArbiterSports. I have m
 
 
 #### Currently learning:
-- GraphQL/Appolo.
+- GraphQL/Appolo/Relay.
 - GatsbyJS/NextJs.
-- React-Query.
 - Recoil.
 
 
