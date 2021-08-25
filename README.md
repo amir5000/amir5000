@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Amir Arafat and I am a UI System Architect at ArbiterSports. I have more than 12 years of experience as a Front-End developer. My main programming language has been JavaScript, but I ❤️ &nbsp;all Front-End related technologies. I have contributed to a few OSS projects including AntDesign and React-Navigation. I am trying to contribut to open source as much as I can in my free time. I ❤️ &nbsp;OSS and the OSS community. 
+My name is Amir and I am a UI System Architect. I have more than 12 years of experience as a Front-End developer. My main programming language has been JavaScript, but I ❤️ &nbsp;all Front-End related technologies. I have contributed to a few OSS projects including AntDesign and React-Navigation. I am trying to contribut to open source as much as I can in my free time. I ❤️ &nbsp;OSS and the OSS community. 
 
 #### My main experience is:
 - 💫 CSS/Sass/LESS. 
