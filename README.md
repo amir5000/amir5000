@@ -17,7 +17,7 @@ My name is Amir and I am a UI System Architect. I have more than 12 years of exp
 
 
 #### Currently learning:
-- Web3/ethers.js.
+- Web3/EthersJS.
 - Solidity.
 - GraphQL/Apollo/Relay.
 - Remix/NextJs.
