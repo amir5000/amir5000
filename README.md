@@ -5,12 +5,14 @@ My name is Amir and I am a UI System Architect. I have more than 12 years of exp
 #### My main experience is:
 - 💫 CSS/Sass/LESS. 
 - 🅷 HTML/HTML5.
+- 😈 TypeScript/JavaScript.
 - 😎 Node/Express/AWS Serverless/AWS Amplify.
 - ⚛ ReactJs. 
 - 📱 ReactNative/Expo.
 - 🤖 Redux.
 - 🧮 React-Query.
-- 😈 TypeScript.
+- 🌹 Tailwind.
+- 💅 styled-components.
 - 🐜 AntDesign.
 - 🅱 Bootstrap.
 - 👾 JQuery.
